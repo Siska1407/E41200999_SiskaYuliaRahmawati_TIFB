@@ -21,7 +21,7 @@ public class tugas_b2 {
         int i=0;
         do
         {
-            System.out.print("  "+i*2);
+            System.out.print("  "+i);
             i++;
         }
         while(i<=100);

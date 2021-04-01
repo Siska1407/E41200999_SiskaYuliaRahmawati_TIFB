@@ -17,7 +17,7 @@ public class tugas_b {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Do_While");
-        System.out.println("Bilangan kelipatan 2 (1-100)");
+        System.out.println("Bilangan perkalians6^ 2 (1-100)");
         int hitung=1;
         do
         {
